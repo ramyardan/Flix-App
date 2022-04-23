@@ -15,9 +15,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
 
-I experienced some challanges with tab bar controller setup of the Flix app. However, by using documenation, I was able to resolve the issue. 
+I experienced some challanges with tab bar controller setup of the Flix app. However, by using Apple Developer documenation, I was able to resolve the issue. 
 
 
 ---
